@@ -15,7 +15,7 @@
 </p>
 
 - 💻 I’m currently working on Flutter and node js
-- 🌱 I’m currently learning bloc for statemanagement 
+- 🌱 I’m currently learning bloc for state management 
 - 🤝 I’m looking to collaborate on flutter project
 - 🤔 I’m looking for help with bloc in flutter
 - 💬 Ask me about flutter/dart and node js
