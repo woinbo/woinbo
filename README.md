@@ -20,5 +20,6 @@
 <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
-  <img src="https://github-readme-stats.vercel.app/api?username=woinbo&count_private=true"/>
+  <img src = "https://github-readme-stats.vercel.app/api?username=woinbo&show_icons=true&theme=tokyonight&line_height=33">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=woinbo&hide=css,html&theme=tokyonight">
 </p>
